@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Deployed Link -https://sptify-clone-gk.web.app
+Deployed Link -https://spotify-dev-blue.vercel.app/
 ![Screenshot (53)](https://user-images.githubusercontent.com/67467982/162613183-fa8193c1-989e-434d-9f81-d68c0e5035a3.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/67467982/162613192-3449ee45-bf00-4ee1-9269-f67ca1fbc32d.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/67467982/162613196-7908107c-cacc-4299-85e5-c2e58dc6e901.png)
